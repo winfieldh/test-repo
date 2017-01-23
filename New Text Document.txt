@@ -1,1 +1,5 @@
-fdsafdsafsda
+git add -A
+
+git commit -m "First file update"
+
+git push
